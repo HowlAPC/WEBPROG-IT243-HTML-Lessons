@@ -1,0 +1,25 @@
+Body { 
+    background-color: black;
+}
+
+h1, p {
+    color:white;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  background-color: DodgerBlue;
+}
+
+.container div {
+  background-color: #f1f1f1;
+  width: 100px;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;  
+  font-size: 30px;
+}
