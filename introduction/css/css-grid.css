@@ -13,4 +13,9 @@
   font-size: 30px;
   text-align: center;
 }
+
+body {
+    background-color: #000;
+    font-family: 'Courier New', Courier, monospace;
+}
  
