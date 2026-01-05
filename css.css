@@ -1,0 +1,21 @@
+body {
+    background: url('https://media1.tenor.com/m/vVNfe2ADCpAAAAAC/pawbert-zootopia2.gif');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#hite {
+    background-color: rgba(255, 255, 255, 0.975);
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 10px;
+    padding-right: 10xp;
+    border-radius: 30px;
+}
+
+
+h1 {
+    text-align: center;
+}
